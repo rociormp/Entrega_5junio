@@ -50,3 +50,4 @@ array_shift($csv);
 <script src="js/bootstrap.min.js"></script>
 </body>
 </html>
+<?php include('pie.php');?>
