@@ -49,3 +49,4 @@ array_shift($csv);
 <script src="js/bootstrap.min.js"></script>
 </body>
 </html>
+<?php include('cabeza.php');?>
